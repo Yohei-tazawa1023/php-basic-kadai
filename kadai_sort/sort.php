@@ -27,6 +27,9 @@
             }
 
         }
+        sort_2way($nums,TRUE);
+
+        echo '<br>';
 
         sort_2way($nums,FALSE);
 
